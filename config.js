@@ -29,7 +29,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] roun
 export const APP_NAME = 'The Villanins Favourite is Me';
 export const NavbarName = "The Villanins Favourite is Me";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online. Elena, a young woman who unexpectedly finds herself reincarnated into the world of a novel she once read. To her surprise, she is not the heroine but a minor character destined for a tragic end. Determined to change her fate, Elena decides to use her knowledge of the story to navigate her new life.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} all chapters online. Elena, a young woman who unexpectedly finds herself reincarnated into the world of a novel she once read. To her surprise, she is not the heroine but a minor character destined for a tragic end. Determined to change her fate, Elena decides to use her knowledge of the story to navigate her new life.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
